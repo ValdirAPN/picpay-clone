@@ -25,7 +25,7 @@ const icons = {
     },
     Settings: {
         lib: AntDesign,
-        name: 'settings',
+        name: 'setting',
     },
 };
 
